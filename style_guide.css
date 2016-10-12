@@ -1,0 +1,23 @@
+body {
+  background: #c0c0c0;
+  font: normal 14px Helvetica, Arial, sans-serif;
+}
+
+main {
+  background: #ffffff;
+  padding: 20px 25px;
+}
+
+ul.row li {
+  background: #ececec;
+  border-radius: 8px;
+  padding: 8px 15px;
+  text-align: center;
+}
+
+.demo_height {
+  background: #ececec;
+  height: 400px;
+  line-height: 400px;
+  text-align: center;
+}
